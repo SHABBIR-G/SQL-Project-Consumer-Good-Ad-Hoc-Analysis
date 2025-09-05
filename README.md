@@ -1,0 +1,1 @@
+# SQL-Project-Consumer-Good-Ad-Hoc-Analysis
